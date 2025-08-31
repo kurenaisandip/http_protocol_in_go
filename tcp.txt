@@ -1,0 +1,9 @@
+new connection has been accepted: [::1]:50003
+received: ok 
+received: this is going to be long and so i want to check whether it will format this properly. here we go
+received: what the hell it didn't format it but why 
+received: nanana 
+received: ok lets test this things limit. after 8 buffer it had to sperate the lettern and print it in the new line may be somehthing is wrong with my code 
+received: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk asdkaaaaaaaalkasdfnkasjdnfausjdhfnjkasdbfnhjukashdnfjkasndfjkshdfkjuhnaksjdfbnjkasdhfnjksadnbf jksadhfujasdkhhfnbjkasdhfaiusdefhnjkasdbhfjhbdsv mnzxbcviusdhfnkjasdbhfjkashdglfasdbnvk.jasdhfwiuehrfnwjikuehfuiasdhfkjasdhfiuasdhfajksdnbfaksjdfh
+received: ok something is broken 
+connection has been closed [::1]:50003
