@@ -95,4 +95,6 @@ func handleConnection(conn net.Conn) {
 	for line := range getLinesChannel(conn) { // read lines from the client
 		fmt.Printf("received: %s\n", line)
 	}
+
+	fmt.Println("connection has been closed", conn.RemoteAddr())
 }
