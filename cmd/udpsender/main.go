@@ -8,7 +8,7 @@ import (
 	"os"
 )
 
-// to run this first run the net cat in another terminal and run the main function of this file then, enter some message and press enter and see the message in the terminal that net cat is running.
+// to run this first run the net cat in another terminal and run the main function of this file then, enter some message and press enter and see the message in the terminal that net cat is running. 'nc -u -l 42069'
 func main() {
 	addr, err := net.ResolveUDPAddr("udp", "localhost:42069")
 	if err != nil {
