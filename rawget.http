@@ -1,0 +1,8 @@
+new connection has been accepted: [::1]:50024
+received: POST /coffee HTTP/1.1
+received: Host: localhost:42069
+received: User-Agent: curl/8.12.1
+received: Accept: */*
+received: Content-Type: application/json
+received: Content-Length: 22
+received: 
